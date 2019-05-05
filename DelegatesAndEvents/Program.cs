@@ -49,10 +49,10 @@ namespace DelegatesAndEvents
             Console.ReadKey();
 
             Func<int, int> func = (int k) =>
-              {
-                  Console.WriteLine(k);
-                  return k;
-              };
+            {
+                Console.WriteLine(k);
+                return k;
+            };
 
             valueDelegate.Invoke(5);
             func.Invoke(150);
@@ -88,6 +88,13 @@ namespace DelegatesAndEvents
             #endregion
         }
 
+        private static void Person_GoToSleep(object sender, EventArgs e)
+        {
+            if(sender is Person person)
+            Console.WriteLine($"{person.Name} пошёл спать.");
+            Console.ReadKey();
+        }
+
         private static void Person_DoWork(object sender, EventArgs e)
         {
             if (sender is Person person)
@@ -95,11 +102,7 @@ namespace DelegatesAndEvents
             Console.ReadKey();
         }
 
-        private static void Person_GoToSleep()
-        {
-            Console.WriteLine("Человек пошёл спать.");
-            Console.ReadKey();
-        }
+
 
         public static void SayHello()
         {

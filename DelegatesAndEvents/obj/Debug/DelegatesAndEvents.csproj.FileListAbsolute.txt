@@ -1,0 +1,7 @@
+C:\Users\ko4a\source\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+C:\Users\ko4a\source\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+C:\Users\ko4a\source\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+C:\Users\ko4a\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csprojAssemblyReference.cache
+C:\Users\ko4a\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\ko4a\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+C:\Users\ko4a\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
